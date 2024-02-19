@@ -1,0 +1,15 @@
+D:\university\2 курс\ППО\lab1_T4\lab1_T4\bin\Debug\net5.0\lab1_T4.exe
+D:\university\2 курс\ППО\lab1_T4\lab1_T4\bin\Debug\net5.0\lab1_T4.deps.json
+D:\university\2 курс\ППО\lab1_T4\lab1_T4\bin\Debug\net5.0\lab1_T4.runtimeconfig.json
+D:\university\2 курс\ППО\lab1_T4\lab1_T4\bin\Debug\net5.0\lab1_T4.runtimeconfig.dev.json
+D:\university\2 курс\ППО\lab1_T4\lab1_T4\bin\Debug\net5.0\lab1_T4.dll
+D:\university\2 курс\ППО\lab1_T4\lab1_T4\bin\Debug\net5.0\ref\lab1_T4.dll
+D:\university\2 курс\ППО\lab1_T4\lab1_T4\bin\Debug\net5.0\lab1_T4.pdb
+D:\university\2 курс\ППО\lab1_T4\lab1_T4\obj\Debug\net5.0\lab1_T4.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\2 курс\ППО\lab1_T4\lab1_T4\obj\Debug\net5.0\lab1_T4.AssemblyInfoInputs.cache
+D:\university\2 курс\ППО\lab1_T4\lab1_T4\obj\Debug\net5.0\lab1_T4.AssemblyInfo.cs
+D:\university\2 курс\ППО\lab1_T4\lab1_T4\obj\Debug\net5.0\lab1_T4.csproj.CoreCompileInputs.cache
+D:\university\2 курс\ППО\lab1_T4\lab1_T4\obj\Debug\net5.0\lab1_T4.dll
+D:\university\2 курс\ППО\lab1_T4\lab1_T4\obj\Debug\net5.0\ref\lab1_T4.dll
+D:\university\2 курс\ППО\lab1_T4\lab1_T4\obj\Debug\net5.0\lab1_T4.pdb
+D:\university\2 курс\ППО\lab1_T4\lab1_T4\obj\Debug\net5.0\lab1_T4.genruntimeconfig.cache
