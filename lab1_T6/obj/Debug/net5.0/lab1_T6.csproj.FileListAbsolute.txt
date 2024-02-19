@@ -1,0 +1,16 @@
+D:\university\2 курс\ППО\lab1_T6\lab1_T6\bin\Debug\net5.0\lab1_T6.exe
+D:\university\2 курс\ППО\lab1_T6\lab1_T6\bin\Debug\net5.0\lab1_T6.deps.json
+D:\university\2 курс\ППО\lab1_T6\lab1_T6\bin\Debug\net5.0\lab1_T6.runtimeconfig.json
+D:\university\2 курс\ППО\lab1_T6\lab1_T6\bin\Debug\net5.0\lab1_T6.runtimeconfig.dev.json
+D:\university\2 курс\ППО\lab1_T6\lab1_T6\bin\Debug\net5.0\lab1_T6.dll
+D:\university\2 курс\ППО\lab1_T6\lab1_T6\bin\Debug\net5.0\ref\lab1_T6.dll
+D:\university\2 курс\ППО\lab1_T6\lab1_T6\bin\Debug\net5.0\lab1_T6.pdb
+D:\university\2 курс\ППО\lab1_T6\lab1_T6\obj\Debug\net5.0\lab1_T6.csproj.AssemblyReference.cache
+D:\university\2 курс\ППО\lab1_T6\lab1_T6\obj\Debug\net5.0\lab1_T6.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\2 курс\ППО\lab1_T6\lab1_T6\obj\Debug\net5.0\lab1_T6.AssemblyInfoInputs.cache
+D:\university\2 курс\ППО\lab1_T6\lab1_T6\obj\Debug\net5.0\lab1_T6.AssemblyInfo.cs
+D:\university\2 курс\ППО\lab1_T6\lab1_T6\obj\Debug\net5.0\lab1_T6.csproj.CoreCompileInputs.cache
+D:\university\2 курс\ППО\lab1_T6\lab1_T6\obj\Debug\net5.0\lab1_T6.dll
+D:\university\2 курс\ППО\lab1_T6\lab1_T6\obj\Debug\net5.0\ref\lab1_T6.dll
+D:\university\2 курс\ППО\lab1_T6\lab1_T6\obj\Debug\net5.0\lab1_T6.pdb
+D:\university\2 курс\ППО\lab1_T6\lab1_T6\obj\Debug\net5.0\lab1_T6.genruntimeconfig.cache
