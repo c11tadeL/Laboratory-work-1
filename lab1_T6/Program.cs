@@ -132,7 +132,7 @@ namespace lab1_T6
             return array;
         }
 
-        void CompareStandardWithStudent(SortingAlgorithm standard, SortingAlgorithm student)
+       void CompareStandardWithStudent(SortingAlgorithm standard, SortingAlgorithm student)
         {
             var arrayToSort = GenerateRandomArray(10000);
 
@@ -150,10 +150,11 @@ namespace lab1_T6
                 standard(arrForStandard);
                 st.Stop();
                 standardTime = st.Elapsed.TotalMilliseconds;
+                Console.WriteLine($"Час виконання стандартного алгоритму: {standardTime} мс");
             }
             catch (Exception e)
             {
-                Console.WriteLine($"Виникла помилка у стандартному методі: {e.Message}");
+                Console.WriteLine($"Помилка у стандартному методі: {e.Message}");
                 return;
             }
 
@@ -166,21 +167,22 @@ namespace lab1_T6
 
                 st.Stop();
                 studentTime = st.Elapsed.TotalMilliseconds;
+                Console.WriteLine($"Час виконання студентського алгоритму: {studentTime} мс");
 
                 if (!IsArraySorted(studentResult.Result))
                 {
-                    Console.WriteLine("Студентський метод не відсортував масив правильно");
+                    Console.WriteLine("Студентський алгоритм не відсортував масив правильно");
                     return;
                 }
             }
             catch (OperationCanceledException)
             {
-                Console.WriteLine("Час виконання студентського методу перевищив 5 секунд");
+                Console.WriteLine("Час виконання студентського алгоритму перевищив 5 секунд");
                 return;
             }
             catch (Exception e)
             {
-                Console.WriteLine($"Виникла помилка у студентському методі: {e.Message}");
+                Console.WriteLine($"Помилка у студентському методі: {e.Message}");
                 return;
             }
 
@@ -192,7 +194,6 @@ namespace lab1_T6
             {
                 Console.WriteLine("Алгоритми мають різний час виконання");
             }
-
         }
 
         int[] GenerateRandomArray(int size)
